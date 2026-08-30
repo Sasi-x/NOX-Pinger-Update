@@ -5,5 +5,5 @@
   "title": "NOX PINGER v10.0.1 - Ultimate Network Diagnostic Engine",
   "apk_url": "https://github.com/Sasi-x/NOX-Pinger-Update/releases/download/v10.0.1/NOX-PINGER.apk",
   "changelog": "• Auto-Best Host Engine & 20 Presets\n• Compact Selection UI\n• Hotspot & Tethering Stabilizer Engine",
-  "is_force_update": false
+  "is_force_update": false 
 }
