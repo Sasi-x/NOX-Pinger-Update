@@ -1,0 +1,7 @@
+{
+  "version_code": 9,
+  "version_name": "9.0.0",
+  "is_force_update": true,
+  "apk_url": "PASTE_YOUR_COPIED_APK_URL_HERE",
+  "changelog": "• Sync real-time ping headers\n• Removed fake/misleading metrics\n• Added functional APN settings shortcut"
+}
